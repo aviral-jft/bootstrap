@@ -1,0 +1,21 @@
+#bg{
+    background-color: rgb(235, 241, 245);
+    /* padding-bottom: 520px; */
+    text-align: center;
+}
+.btn-primary,.btn-border{
+    background-color:rgb(17, 165, 245) !important;
+}
+p{
+    color: gray;
+}
+.carousel-item{
+    width: 100%;
+    height: auto;
+}
+.carousel-inner{
+    height: 10%;
+}
+#contact{
+    /* padding-bottom: 500px; */
+}

@@ -1,0 +1,13 @@
+#bg{
+    background-color: rgb(235, 241, 245);
+}
+.btn-primary,.btn-border{
+    background-color:rgb(17, 165, 245) !important;
+}
+p{
+    color: gray;
+}
+.carousel-item{
+    width: 100%;
+    height: ;
+}
